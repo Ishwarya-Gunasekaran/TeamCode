@@ -13,6 +13,6 @@ public class Assignment71 extends parent
 		public static void main(String[] args) 
 		{
 			call();
-			System.out.println("Child class");
+			System.out.println("MAking changes in class");
 		}
 }
